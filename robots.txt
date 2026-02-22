@@ -1,3 +1,4 @@
 User-agent: *
-Allow: /
-Sitemap: https://www.yoursite.com/sitemap.xml
+Disallow:
+
+Sitemap: https://omerd7806-dev.github.io/jadleentravel/sitemap.xml

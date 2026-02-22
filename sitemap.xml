@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- الصفحة الرئيسية -->
   <url>
-    <loc>https://www.yoursite.com/</loc>
+    <loc>https://omerd7806-dev.github.io/jadleentravel/</loc>
     <lastmod>2026-02-22</lastmod>
+    <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
+
+  <!-- أضف هنا صفحات أخرى إذا عندك -->
+  <!-- مثال:
+  <url>
+    <loc>https://omerd7806-dev.github.io/jadleentravel/contact.html</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  -->
 </urlset>
